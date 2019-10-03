@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/toogas_featured_popup_free_version",
+    "name": "OpenMageModuleFostering\/toogas_featured_popup_free_version",
     "type": "magento-module",
     "license": "Community",
     "homepage": "",
-    "description": "With Featured Pop-Up extension it’s possible to define the pop-ups you want being called from the Homepage.",
+    "description": "With Featured Pop-Up extension it\u2019s possible to define the pop-ups you want being called from the Homepage.",
     "authors": [
-    {
-        "name": "Toogas Lda.",
-        "email": "ceo@toogas.com"
-    }
-],
+        {
+            "name": "Toogas Lda.",
+            "email": "ceo@toogas.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
